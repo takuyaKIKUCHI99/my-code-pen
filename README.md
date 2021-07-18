@@ -1,1 +1,1 @@
-My code pen link: https://dev.to/takuyakikuchi
+My code pen link: https://codepen.io/takuyakikuchi
